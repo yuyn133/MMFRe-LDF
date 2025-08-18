@@ -1,0 +1,4 @@
+# ninja log v5
+0	2931	1732095091473873890	/home/yyn/Desktop/DCNv4/detection/ops_dcnv3/build/temp.linux-x86_64-3.10/home/yyn/Desktop/DCNv4/detection/ops_dcnv3/src/cpu/dcnv3_cpu.o	729d1b996d142be0
+0	9634	1732095098180424662	/home/yyn/Desktop/DCNv4/detection/ops_dcnv3/build/temp.linux-x86_64-3.10/home/yyn/Desktop/DCNv4/detection/ops_dcnv3/src/vision.o	75a9cef27b88fde9
+0	32609	1732095121150297303	/home/yyn/Desktop/DCNv4/detection/ops_dcnv3/build/temp.linux-x86_64-3.10/home/yyn/Desktop/DCNv4/detection/ops_dcnv3/src/cuda/dcnv3_cuda.o	405899cd6be3fc93
