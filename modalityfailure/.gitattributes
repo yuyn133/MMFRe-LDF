@@ -1,0 +1,14 @@
+# 统一换行符处理：避免 Windows 上提交后，Linux 下 bash 脚本因 CRLF 报错
+* text=auto
+
+*.sh   text eol=lf
+*.py   text eol=lf
+*.yaml text eol=lf
+*.yml  text eol=lf
+*.md   text eol=lf
+
+# 二进制文件不做换行符转换
+*.mexw64 binary
+*.p      binary
+*.jpg    binary
+*.png    binary
